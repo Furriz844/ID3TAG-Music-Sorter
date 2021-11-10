@@ -1,3 +1,4 @@
+#Simple music sorter by ID3TAG's
 from src.song import Song
 from tinytag import TinyTag
 import pathlib
